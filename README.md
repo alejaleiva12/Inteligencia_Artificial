@@ -2,7 +2,7 @@
 
 Proyecto final de **SI3003 – Inteligencia Artificial** (Universidad EAFIT, 2026-1).
 
-**Autores:** Aleja [COMPLETAR: apellidos] y Juan David Correa Duque · **Grupo:** [COMPLETAR: nombre del grupo]
+**Autores:** Maria Alejandra Leiva Del Rio y Juan David Correa Duque · **Grupo:** Miercoles
 
 ---
 
